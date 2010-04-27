@@ -3,7 +3,7 @@ Summary: A QT frontend for ACDP
 Version: 0.1.0
 Release: %mkrel 1
 License: GPL
-Group: Graphical desktop
+Group: Graphical desktop/KDE
 URL: http://www.mandriva.com
 Source0:  %{name}-%{version}.tar.bz2
 Source1:  qacdp.desktop
