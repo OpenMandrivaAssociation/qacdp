@@ -1,7 +1,7 @@
 Name: qacdp
 Summary: A QT frontend for ACDP
 Version: 0.1.0
-Release: %mkrel 2
+Release: %mkrel 3
 License: GPL
 Group: Graphical desktop/KDE
 URL: http://www.mandriva.com
