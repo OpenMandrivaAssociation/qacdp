@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=QACDP
+Comment=ACDP frontend
+GenericName=ACDP Qt frontend
+Exec=qacdp
+Type=Application
+Categories=Utility;
+Terminal=false
+Icon=mandriva
