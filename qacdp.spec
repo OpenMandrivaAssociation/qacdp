@@ -4,7 +4,7 @@ Version: 0.1.0
 Release: 4
 License: GPL
 Group: Graphical desktop/KDE
-URL: http://www.mandriva.com
+URL: https://www.mandriva.com
 Source0:  %{name}-%{version}.tar.bz2
 Source1:  qacdp.desktop
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
